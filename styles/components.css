@@ -18,6 +18,7 @@
 
 .title_white_h3 {
     font-size: 36px;
+    color: var(--color-text);
 }
 
 .paragraph {
